@@ -1,0 +1,2 @@
+Using Hands-On Machine Learing with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron 
+this will be where I practice what is in the book and attempt it myself
